@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My personal portfolio: [link](tiago369.github.io)
+My linkedin acount: [link](https://www.linkedin.com/in/tiago-sant-anna-860930225/)
+
+I'm currently a volunteer in [BIR]()
+
 <!--
 **tiago369/tiago369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
