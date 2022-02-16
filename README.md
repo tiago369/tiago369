@@ -7,7 +7,9 @@
 </div>
 
 [My personal portfolio](tiago369.github.io)
+
 [My linkedin acount](https://www.linkedin.com/in/tiago-sant-anna-860930225/)
+
 [I'm currently a volunteer in BIR](https://braziliansinrobotics.com/)
 
 <!--
