@@ -3,7 +3,6 @@
 Robotics engineer/researcher working on humanoid and legged robot simulation, ROS 2, and sim-to-real methods — MuJoCo, PyBullet, Gazebo.
 
 - 🔭 Currently working on cross-engine physics benchmarking and calibration for humanoid robots
-- 🤝 Volunteer at [Brazilians in Robotics](https://braziliansinrobotics.com/)
 - 🔗 [Portfolio](https://tiago369.github.io) · [LinkedIn](https://www.linkedin.com/in/tiago-sant-anna-860930225/)
 
 <div align="center">
